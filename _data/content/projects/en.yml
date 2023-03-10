@@ -12,7 +12,7 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
+    - title: "example"
       type: id_example
       color: "gray"
     - title: "Picture"

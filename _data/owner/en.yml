@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Yongluck's blog"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "고용운's 블로그"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Go yongun"
 
 # home page top header texts
 home:
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "환영합니다."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -48,7 +48,7 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  #- github: "https://github.com/Dragonholic"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
