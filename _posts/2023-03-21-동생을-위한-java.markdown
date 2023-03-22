@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello algo!"
+title:  "동생을 위한 교양 자바g"
 date:   2023-03-21 00:30:46 +0900
 categories: teach
 tag: [teach]
